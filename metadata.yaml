@@ -1,0 +1,28 @@
+_repo: The-Agony-Column_1814
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Biggers, Earl Derr
+    birthdate: 1884
+    deathdate: 1933
+    gutenberg_agent_id: '714'
+    url: http://www.gutenberg.org/2009/agents/714
+    wikipedia: http://en.wikipedia.org/wiki/Earl_Derr_Biggers
+description: ''
+gutenberg_issued: '1999-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Americans -- England -- Fiction'
+- GITenberg
+title: The Agony Column
+url: http://www.gutenberg.org/ebooks/1814
